@@ -1,2 +1,3 @@
 test
-tambah baris di remote
+tambah baris di remote, edit di lokal
+baris 3 di lokal
