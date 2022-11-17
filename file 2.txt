@@ -3,3 +3,4 @@ tambah baris di remote, edit di lokal
 baris 3 di lokal
 
 tambah baris 5 di lokal
+baris 6 di remote
